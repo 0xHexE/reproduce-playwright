@@ -1,0 +1,8 @@
+{
+  "name": "reproduce-playwright",
+  "packageManager": "yarn@3.4.1",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  },
+  "scripts": {}
+}
